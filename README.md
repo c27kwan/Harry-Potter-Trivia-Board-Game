@@ -1,5 +1,5 @@
 # Harry-Potter-Trivia-Board-Game
-Original Java Harry Potter trivia board game made for ICS 4U
+Original Java Harry Potter trivia board game made for ICS 4U. See BoardGameUserGuide.pdf for game instructions. 
 
 <p> Contribution:
   <ul>
